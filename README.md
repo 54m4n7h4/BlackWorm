@@ -1,3 +1,5 @@
+![](https://img.shields.io/maintenance/no/2018)
+
 ## BlackWorm v6.0 Black Ninja
 #### BlackWorm Developer Stopped Updating The Software
 #### This is the Last Version Black.Hacker and DarkSoftwareCo Will Release
